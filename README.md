@@ -1,2 +1,2 @@
 # rpg
-A rudimentary RPG for CSA.
+A rudimentary RPG for AP CSA.
